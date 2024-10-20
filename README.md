@@ -1,6 +1,6 @@
 # graalvm-v2301-json-test
 
-- For https://github.com/apache/shardingsphere/issues/32927 .
+- For https://github.com/oracle/graal/issues/9929 and https://github.com/apache/shardingsphere/issues/32927 .
 
 - Verified unit test under Ubuntu 22.04.4 LTS with `SDKMAN!`.
 
